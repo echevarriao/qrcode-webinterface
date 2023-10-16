@@ -3,7 +3,7 @@
 
 </head>
 <body>
-<form action = "test.php" method = "get">
+<form action = "processurl.php" method = "post">
 <p>
 	<label>Enter URL <input type = "text" name = "url" id = "url" /></label>
 </p>
