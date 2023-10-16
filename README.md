@@ -4,6 +4,8 @@
 
 * files: index.php, processurl.php 
 
+* Please visit https://github.com/chillerlan/php-qrcode to learn more about the QR Code Generator as it is maintained by that user and not me.
+
 # TODO 
 
 * Add option to e-mail QR Code to e-mail
